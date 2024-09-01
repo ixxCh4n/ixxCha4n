@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ixxCha4n
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Svelte framework
+- 🌱 I’m currently learning React framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 You may contact me in my messenger John Christian Anay II
 - ⚡ Fun fact: ...
